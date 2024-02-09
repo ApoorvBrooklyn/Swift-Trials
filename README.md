@@ -22,17 +22,17 @@ In the future, we plan to incorporate AI to simulate all parameters once we have
 To install Swift Trials, follow these steps:
 
 1. Clone the repository:
-   ```
+
    git clone https://github.com/theharshithh/swift-trials.git
-   ```
+
 2. Navigate to the project directory:
-   ```
+
    cd swift-trials
-   ```
+
 3. Install dependencies:
-   ```
+   
    pip install -r requirements.txt
-   ```
+
 
 ## Usage
 
@@ -62,6 +62,6 @@ We welcome contributions from the community! To contribute to Swift Trials, plea
 ## Contact
 
 For support or inquiries, please contact the Swift Trials team at kharshithmurthy@gmail.com
-```
 
 This README.md code will make your project's documentation more organized and visually appealing on GitHub. Adjustments can be made as necessary to suit your preferences and project requirements.
+```
