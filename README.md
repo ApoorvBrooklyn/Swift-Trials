@@ -63,5 +63,4 @@ We welcome contributions from the community! To contribute to Swift Trials, plea
 
 For support or inquiries, please contact the Swift Trials team at kharshithmurthy@gmail.com
 
-This README.md code will make your project's documentation more organized and visually appealing on GitHub. Adjustments can be made as necessary to suit your preferences and project requirements.
 ```
